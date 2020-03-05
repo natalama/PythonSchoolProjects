@@ -1,0 +1,8 @@
+      navn             Entalpi             Entropi               label
+                       [kJ/mol]           [J/mol*K]
+
+       BaO              -1108                -191            $\mathrm{BaO}$
+      Ag2O                -62                -135        $\mathrm{Ag_{2}O}$
+       CO2               -566                -173         $\mathrm{CO_{2}}$
+        CO               -222                 179             $\mathrm{CO}$
+      SiO2               -911                -183        $\mathrm{SiO_{2}}$
