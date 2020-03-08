@@ -98,7 +98,7 @@ for molecular_symbol, enthalpy, entropy, molecule_graph_name in zip(molecular_sy
 
 c_co_x, c_co_y = findIntersection(x1, y1, x2, y2, x3, y3, x4, y4)
 print('skjæringspunktet mellom linjene C/CO og CO/CO2:', c_co_x, c_co_y)
-plt.scatter(c_co_x, c_co_y, color = 'black')
+plt.scatter(c_co_x, c_co_y, color = 'black', label = 'Skjæringspunkt C/CO & CO/CO2')
 plt.title('Natalie Matic')
 plt.legend()
 plt.xlabel('Temperatur(K)')
